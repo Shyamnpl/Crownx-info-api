@@ -1,0 +1,149 @@
+{
+  "AccountInfo": {
+    "AccountAvatarId": 902042016,
+    "AccountBPBadges": 117,
+    "AccountBPID": 1001000094,
+    "AccountBannerId": 901042019,
+    "AccountCreateTime": "1622071916",
+    "AccountEXP": 321110,
+    "AccountLastLogin": "1774749304",
+    "AccountLevel": 51,
+    "AccountLikes": 1047,
+    "AccountName": "RCB17.exe¿",
+    "AccountRegion": "BD",
+    "AccountSeasonId": 50,
+    "AccountType": 1,
+    "BrMaxRank": 314,
+    "BrRankPoint": 2546,
+    "CsMaxRank": 321,
+    "CsRankPoint": 95,
+    "EquippedWeapon": [907103916],
+    "ReleaseVersion": "OB52",
+    "ShowBrRank": true,
+    "ShowCsRank": true,
+    "Title": 904090024
+  },
+  "AccountProfileInfo": {
+    "EquippedOutfit": [214000000, 205052019, 211052024, 211052023, 204052019, 203052019],
+    "EquippedSkills": [16, 5803, 8, 1, 16, 3006, 8, 2, 16, 4905, 8, 3, 16, 7106]
+  },
+  "GuildInfo": {
+    "GuildCapacity": 50,
+    "GuildID": "3093547558",
+    "GuildLevel": 7,
+    "GuildMember": 48,
+    "GuildName": "SKCrownX64",
+    "GuildOwner": "3203014668"
+  },
+  "captainBasicInfo": {
+    "accountId": "3203014668",
+    "accountPrefers": {
+      "brPregameShowChoices": [1]
+    },
+    "accountType": 1,
+    "badgeCnt": 117,
+    "badgeId": 1001000094,
+    "bannerId": 901042019,
+    "createAt": "1622071916",
+    "csMaxRank": 321,
+    "csRank": 321,
+    "csRankingPoints": 95,
+    "exp": 321110,
+    "externalIconInfo": {
+      "showType": "ExternalIconShowType_FRIEND",
+      "status": "ExternalIconStatus_NOT_IN_USE"
+    },
+    "gameBagShow": 904028004,
+    "headPic": 902042016,
+    "lastLoginAt": "1774749304",
+    "level": 51,
+    "liked": 1047,
+    "maxRank": 314,
+    "nickname": "RCB17.exe¿",
+    "pinId": 910037001,
+    "rank": 314,
+    "rankingPoints": 2546,
+    "region": "BD",
+    "releaseVersion": "OB52",
+    "seasonId": 50,
+    "showBrRank": true,
+    "showCsRank": true,
+    "showRank": true,
+    "socialHighLightsWithBasicInfo": {
+
+    },
+    "title": 904090024,
+    "weaponSkinShows": [907103916]
+  },
+  "creditScoreInfo": {
+    "creditScore": 98,
+    "periodicSummaryEndTime": "1774668907"
+  },
+  "petInfo": {
+    "exp": 540,
+    "id": 1300000101,
+    "isSelected": true,
+    "level": 4,
+    "selectedSkillId": 1315000009,
+    "skinId": 1310000102
+  },
+  "socialinfo": {
+    "accountId": "3203014668",
+    "language": "Language_EN",
+    "rankShow": "RankShow_CS",
+    "signature": "GARENA MADHARCH*OD"
+  }
+}
+
+
+
+{
+  "AccountInfo": {
+    "AccountAvatarId": null,
+    "AccountBPBadges": null,
+    "AccountBPID": 1001000094,
+    "AccountBannerId": null,
+    "AccountCreateTime": "1768709278",
+    "AccountEXP": 48,
+    "AccountLastLogin": "1768803904",
+    "AccountLevel": 2,
+    "AccountLikes": null,
+    "AccountName": "SK⁸⁰¹⁴⁰",
+    "AccountRegion": "BD",
+    "AccountSeasonId": 50,
+    "AccountType": 1,
+    "BrMaxRank": 301,
+    "BrRankPoint": 1000,
+    "CsMaxRank": 301,
+    "CsRankPoint": null,
+    "EquippedWeapon": [],
+    "ReleaseVersion": "OB52",
+    "ShowBrRank": null,
+    "ShowCsRank": null,
+    "Title": null
+  },
+  "AccountProfileInfo": {
+    "EquippedOutfit": [214000000, 203000000, 204000000, 205000000, 211000000, 208000000],
+    "EquippedSkills": [16, 706]
+  },
+  "GuildInfo": {
+    "GuildCapacity": null,
+    "GuildID": "None",
+    "GuildLevel": null,
+    "GuildMember": null,
+    "GuildName": null,
+    "GuildOwner": "None"
+  },
+  "captainBasicInfo": {
+
+  },
+  "creditScoreInfo": {
+
+  },
+  "petInfo": {
+
+  },
+  "socialinfo": {
+
+  }
+}
